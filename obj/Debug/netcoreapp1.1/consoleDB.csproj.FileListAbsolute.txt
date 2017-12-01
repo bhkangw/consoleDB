@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/consoleDB/bin/Debug/netcoreapp1.1/consoleDB.deps.json
+/Users/bkila/Desktop/consoleDB/bin/Debug/netcoreapp1.1/consoleDB.runtimeconfig.json
+/Users/bkila/Desktop/consoleDB/bin/Debug/netcoreapp1.1/consoleDB.runtimeconfig.dev.json
+/Users/bkila/Desktop/consoleDB/bin/Debug/netcoreapp1.1/consoleDB.dll
+/Users/bkila/Desktop/consoleDB/bin/Debug/netcoreapp1.1/consoleDB.pdb
+/Users/bkila/Desktop/consoleDB/obj/Debug/netcoreapp1.1/consoleDB.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/consoleDB/obj/Debug/netcoreapp1.1/consoleDB.AssemblyInfo.cs
+/Users/bkila/Desktop/consoleDB/obj/Debug/netcoreapp1.1/consoleDB.dll
+/Users/bkila/Desktop/consoleDB/obj/Debug/netcoreapp1.1/consoleDB.pdb
